@@ -1,0 +1,64 @@
+.red {
+    color: red;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.half-width img {
+    width: 60%;
+
+}
+
+.banner {
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.top {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red green);
+    background-color: red;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+
+}
+
+.width {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px;
+    border-left: 8px solid green;
+}
+
+#color {
+    border-left: 8px solid lightseagreen;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 100 px;
+    margin: 0%;
+}
